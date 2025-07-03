@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello! 
 
-<!--
-**RioBlumenthal/RioBlumenthal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Rio Blumenthal**, an aspiring software developer currently studying at [Worcester Polytechnic Institute (WPI)](https://www.wpi.edu/).
 
-Here are some ideas to get you started:
+## Education
+- **B.S. Computer Science** (Expected: 2026)
+- **M.S. Computer Science** (Expected: 2027)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Website
+Check out my personal website: [rioblumenthal.com](https://rioblumenthal.com)!
+
+---
+
+Feel free to explore my repositories and don't hesitate to reach out!
