@@ -3,7 +3,7 @@
 I'm **Rio Blumenthal**, an aspiring software developer currently studying at [Worcester Polytechnic Institute (WPI)](https://www.wpi.edu/).
 
 ## Education
-- **B.S. Computer Science** (Expected: 2026)
+- **B.S. Computer Science** (Graduated 2026)
 - **M.S. Computer Science** (Expected: 2027)
 
 ## Website
